@@ -1,4 +1,8 @@
-### Hi there 👋
+### こんにちは 👋
+
+ここはa171413のページです
+研究室や自分で勉強したことをまとめたりします
+GoとNuxtを使いたくなりたい
 
 <!--
 **a171413/a171413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
