@@ -2,7 +2,7 @@
 
 ここはa171413のページです<br>
 研究室や自分で勉強したことをまとめたりします<br>
-GoとNuxtを使いえるようになりたい
+GoとNuxtを使えるようになりたい
 
 <!--
 **a171413/a171413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
